@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!-- hier zet je de code in de head tags -->
+        <title> Eerste HTML Pagina </title>
+    </head>
+    <body>
+       <h1>Dit is de titel-text van mijn eerste HTML pagina!</h1>
+       <h2>Dit is de tekst die onder de titel (H1) komt. Hier schrijf ik nu de tekst voor mijn eerste HTML pagina.</h2>
+       <p>Dit is een wat kleinere tekst. Gemaakt met de P.</p>
+       <hr>Hier staat de hr tekst. Onder de lijn.
+    </body>
+</html>
